@@ -692,8 +692,8 @@ max-width: 264px;
     height: 16px;
     border: 1px solid #2e2f4266;
     border-radius: 2px;
-    display: inline-flex;
     fill: transparent;
+    display: inline-flex;
     align-items: center;
     justify-content: center;
     transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1), 
